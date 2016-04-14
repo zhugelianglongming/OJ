@@ -1,6 +1,7 @@
 /*
 * 40ms
-* O(log(m+n))
+* T:O(log(m+n))
+* S:O(1)
 */
 class Solution {
 public:

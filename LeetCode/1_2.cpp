@@ -1,6 +1,7 @@
 /*
 * 16 ms
-* O(n)
+* T:O(n)
+* S:O(n)
 */
 #include <bits/stdc++.h>
 #define  RD(x)      scanf("%d", &x)

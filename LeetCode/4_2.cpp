@@ -1,6 +1,7 @@
 /*
 * 44ms
-* O(log(m+n))
+* T:O(log(m+n))
+* S:O(1)
 * concise one
 */
 class Solution {

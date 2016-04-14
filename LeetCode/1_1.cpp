@@ -1,6 +1,7 @@
 /*
 * 12 ms
-* O(nlogn)
+* T:O(nlogn)
+* S:O(n)
 */
 class Solution
 {

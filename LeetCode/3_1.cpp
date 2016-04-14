@@ -1,6 +1,7 @@
 /*
 * 60 ms
-* O(n)
+* T:O(n)
+* S:O(n)
 */
 class Solution {
 public:

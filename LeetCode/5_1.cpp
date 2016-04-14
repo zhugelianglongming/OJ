@@ -1,6 +1,8 @@
 /*
+* Manacher
 * 8 ms
-* O(n)
+* T:O(n)
+* S:O(n)
 */
 #define REP(i,n) for(int i=0; i<int(n); i++)
 

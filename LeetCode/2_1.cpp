@@ -1,6 +1,7 @@
 /*
 * 36 ms
-* O(n)
+* T:O(n)
+* S:O(n)
 */
 /**
 * Definition for singly-linked list.
